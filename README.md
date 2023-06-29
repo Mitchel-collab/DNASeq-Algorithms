@@ -1,2 +1,2 @@
 # DNASeq-Algorithms
-Algorithms for DNA Sequencing Analysis
+DNA Sequencing Analysis
